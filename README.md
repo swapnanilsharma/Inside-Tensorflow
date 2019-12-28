@@ -2,7 +2,7 @@
 
 
 
-ReLU implementation, h = ReLU(W*x + b)
+**ReLU implementation, h = ReLU(W*x + b)
 
 
 1. Create weights, including initialization
