@@ -5,9 +5,9 @@
 ## ReLU implementation, h = ReLU(W*x + b)
 
 
-1.  Create weights, including initialization
+1.  Create weights, including initialization: 
 	W ~ Uniform(-1, 1); b=0
-2.  Create input placeholder x
+2.  Create input placeholder x: 
 		m * 784 imput matrix
 3.  Build flow graph
 
